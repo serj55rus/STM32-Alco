@@ -1,4 +1,4 @@
-# 🎯 Контроллер клапана дистиллятора VC-STM32
+# 🎯 Контроллер клапана рект колонны VC-STM32
 
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-STM32F401CCU6-blue)](https://platformio.org)
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-STM32duino-green)](https://github.com/stm32duino/STM32FreeRTOS)
